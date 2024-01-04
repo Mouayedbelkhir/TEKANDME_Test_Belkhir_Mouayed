@@ -1,0 +1,146 @@
+.orbitron-extra-bold-sm {
+    font-family: 'Orbitron';
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.orbitron-extra-bold-sm-nc {
+    font-family: 'Orbitron';
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.orbitron-extra-bold {
+    font-family: 'Orbitron';
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 96px;
+    flex-shrink: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.orbitron-bold-md {
+    font-family: 'Orbitron';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    flex: 1 0 0;
+    text-transform: uppercase;
+}
+
+.orbitron-bold-lg {
+    font-family: 'Orbitron';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    align-self: stretch;
+    text-transform: uppercase;
+}
+
+.orbitron-stats {
+    font-family: 'Orbitron';
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px;
+    text-transform: uppercase;
+    align-self: stretch;
+}
+.orbitron-fullwidth-banner {
+    font-family: 'Orbitron';
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px;
+    text-transform: uppercase;
+}
+
+.manrope-medium {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.manrope-16 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.manrope-18 {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-stretch {
+    align-self: stretch;
+}
+
+.text-card {
+    display: -webkit-box;
+    width: 344px;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    text-overflow: ellipsis;
+}
+
+.orbitron-feature-card {
+    font-family: Orbitron;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+.orbitron-faq-closed {
+    font-family: Orbitron;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+
+.orbitron-faq-open {
+    font-family: Orbitron;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    text-transform: uppercase;
+    flex: 1 0 0;
+}
+
+.feature-card-content {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    align-self: stretch;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+}
+.adresse-footer{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.opacity{
+    opacity: 0.7;
+}
+
+.flx{
+    flex: 1 0 0;
+}

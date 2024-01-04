@@ -1,0 +1,16 @@
+<svg width="68" height="69" viewBox="0 0 68 69" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Bouton play">
+<circle id="Ellipse 70" cx="34" cy="34.5117" r="33" fill="url(#paint0_linear_1_301)" stroke="url(#paint1_linear_1_301)" stroke-width="2"/>
+<path id="Vector 19" d="M41.9252 35.1975L31.2612 43.862C29.9542 44.924 28 43.9938 28 42.3098V26.3138C28 24.7034 29.8061 23.7534 31.1331 24.6657L41.7971 31.9972C42.8974 32.7537 42.9616 34.3555 41.9252 35.1975Z" fill="#FCFCFC"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_301" x1="34" y1="2.51172" x2="40.8571" y2="81.9403" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2B2B2B"/>
+<stop offset="1" stop-color="#625D31"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_301" x1="34" y1="-6.05971" x2="34" y2="79.6546" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C49514"/>
+<stop offset="1" stop-color="#F4C02F"/>
+</linearGradient>
+</defs>
+</svg>

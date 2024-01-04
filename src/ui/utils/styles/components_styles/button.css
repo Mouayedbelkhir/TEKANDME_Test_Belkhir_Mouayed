@@ -1,0 +1,10 @@
+#button-global-style {
+    border-radius: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#button-global-style h3 {
+    margin: 0;
+}

@@ -1,0 +1,9 @@
+.main-feedback-section{
+    display: flex;
+    width: 392px;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    background: var(--Blanc-Blanc, #FCFCFC);
+}

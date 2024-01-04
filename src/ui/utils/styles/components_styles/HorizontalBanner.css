@@ -1,0 +1,34 @@
+.main-horizontal-banner {
+    display: flex;
+    flex-direction: row-reverse;
+    position: relative;
+    padding-left: 108px;
+    padding-right: 108px;
+    flex-shrink: 0;
+}
+
+.banner-img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.horizontal-banner-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    width: 624px;
+    flex-shrink: 0;
+    position: absolute;
+    z-index: 3;
+    left: 80px;
+}
+
+.horizontal-banner-content-icons{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}

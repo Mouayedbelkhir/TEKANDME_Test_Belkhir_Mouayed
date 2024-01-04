@@ -1,0 +1,13 @@
+.video-overlay{
+    position: relative;
+}
+
+.section-one-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: absolute;
+    top: 404px;
+    left: 108px;
+}

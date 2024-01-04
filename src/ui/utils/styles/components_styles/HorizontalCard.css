@@ -1,0 +1,15 @@
+.horizontal-card {
+  display: flex;
+  width: 1224px;
+  align-items: center;
+  gap: 128px;
+  padding-bottom: 152px;
+}
+
+.horizontal-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex: 1 0 0;
+}

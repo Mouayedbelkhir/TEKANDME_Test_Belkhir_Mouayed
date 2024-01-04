@@ -1,0 +1,23 @@
+.feature-card:hover {
+    .feature-card-image {
+        transform: scale(1.05);
+        transition: transform 0.3s ease-in-out 0.3s;
+    }
+
+    .feature-btn {
+        background-color: #f4c02f;
+        transition: background-color 0.3s ease-in-out 0.3s;
+    }
+}
+
+.feature-card .feature-card-image {
+    transition: transform 0.3s ease-in-out;
+}
+
+.feature-card .feature-btn {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.feature-btn {
+    background-color: #fcfcfc;
+}
